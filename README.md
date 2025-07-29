@@ -9,5 +9,5 @@
 - scipy==1.9.1
 - tqdm==4.67.1
 
-## How to Run HeroCL
+## How to Run HyperAim
 - python main.py --dataset [DATASET NAME] --task [TASK NAME] --device [DEVICE NAME] e.g., python main.py --dataset cora_cocitation --task finetune --device cuda:0 
